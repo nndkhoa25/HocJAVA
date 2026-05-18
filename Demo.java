@@ -12,6 +12,7 @@ public class Demo {
         }
 
 
+
         for (int n[] : nums) {
             for (int m : n) {
                 System.out.print(m + " ");
