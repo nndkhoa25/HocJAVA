@@ -27,7 +27,7 @@ public class Demo18_05 {
         students[2] = s3;
 
         for (Student s : students) {
-            System.out.println(s.rollno + " " + s.name + " " + s.mark);
+            System.out.println(s.rollno + " : " + s.name + " : " + s.mark);
         }
 
         // int nums[] = new int[6];
